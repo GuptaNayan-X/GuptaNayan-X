@@ -1,182 +1,155 @@
-<!-- =========================================================
-     NAYAN GUPTA — 3D / FUTURISTIC GITHUB PROFILE
-     ========================================================= -->
-
 <div align="center">
 
-<!-- 3D HERO BANNER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=NAYAN%20GUPTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Creative%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,50:111827,100:312e81&text=NAYAN%20GUPTA&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=FRONTEND%20DEVELOPER%20%7C%20CREATIVE%20BUILDER&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
-<!-- TYPING EFFECT -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Creative+Web+Builder;UI%2FUX+Enthusiast;JavaScript+Learner;Future+Software+Engineer;Building+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences;Frontend+Developer;Creative+Web+Builder;JavaScript+Learner;Exploring+3D+Web;Future+Software+Engineer" />
 
 <br><br>
 
-<!-- PROFILE VIEWS -->
-
-<img src="https://komarev.com/ghpvc/?username=GuptaNayan-X&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=GuptaNayan-X&label=VISITORS&color=8B5CF6&style=for-the-badge"/>
 
 <br><br>
-
-<a href="https://github.com/GuptaNayan-X">
-<img src="https://img.shields.io/github/followers/GuptaNayan-X?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" />
-</a>
 
 <a href="https://github.com/GuptaNayan-X?tab=repositories">
-<img src="https://img.shields.io/github/stars/GuptaNayan-X?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=111827" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🧊 About Me
-
-<div align="center">
-
-> **"Turning ideas into interactive digital experiences."**
-
-</div>
-
-I'm **Nayan Gupta**, a frontend developer and creative builder interested in designing modern, interactive and visually engaging websites.
+## `01` — WHO AM I?
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                    NAYAN GUPTA                       │
-├──────────────────────────────────────────────────────┤
-│ 💻  Frontend Development                             │
-│ 🎨  Modern UI / UX                                   │
-│ 🌐  Interactive Websites                              │
-│ ⚡  Creative Web Experiences                          │
-│ 🚀  Project Builder                                  │
-│ 🎯  Future Software / Computer Engineer              │
-└──────────────────────────────────────────────────────┘
+Nayan Gupta
+├── Frontend Developer
+├── Creative Builder
+├── UI / UX Enthusiast
+├── Web Experimenter
+└── Future Software Engineer
 ```
 
-### 🎯 What I'm Focused On
+I'm **Nayan**, a developer who enjoys turning ideas into **interactive and visually engaging digital experiences**.
 
-* Building modern frontend interfaces
-* Creating interactive and visually engaging websites
-* Improving JavaScript and web development skills
-* Exploring 3D and immersive web experiences
-* Turning ideas into real-world projects
-* Learning modern development technologies
+I started with the fundamentals of web development and I'm now exploring JavaScript, modern frontend technologies, animations and 3D experiences.
+
+> **I don't just want to build websites. I want to build experiences people remember.**
 
 ---
 
-# ⚡ My Tech Universe
+## `02` — WHAT I BUILD
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🌐 Frontend
+### ⚡ Interactive Websites
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+Modern interfaces with animations, smooth interactions and responsive layouts.
 
-<br><br>
+</td>
 
-### 🛠️ Development Tools
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+### 🎨 Creative UI
 
-<br><br>
+Experimenting with layouts, visual effects, typography and immersive designs.
 
-### 🚀 Exploring
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,threejs,mongodb&theme=dark" />
+<tr>
+<td width="50%">
 
-</div>
+### 🌌 3D Experiences
+
+Exploring 3D interfaces and immersive experiences for the web.
+
+</td>
+
+<td width="50%">
+
+### 🚀 Personal Projects
+
+Turning ideas into real projects instead of keeping them as ideas.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌌 My Developer Journey
+## `03` — TECH STACK
 
-<div align="center">
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+</p>
+
+### Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,threejs,mongodb&theme=dark"/>
+</p>
+
+---
+
+## `04` — MY CURRENT STACK
 
 ```text
-                         ┌───────────────┐
-                         │     IDEAS     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │   HTML + CSS      │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │    JAVASCRIPT     │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │ MODERN FRONTEND   │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │  INTERACTIVE WEB  │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │  3D EXPERIENCES   │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │   FULL STACK 🚀   │
-                       └───────────────────┘
+                    ┌─────────────────────┐
+                    │       IDEAS         │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │     HTML + CSS      │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │    JAVASCRIPT       │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │   MODERN FRONTEND   │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │  INTERACTIVE WEB    │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │      3D WEB         │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │   FULL-STACK 🚀     │
+                    └─────────────────────┘
 ```
 
-</div>
-
 ---
 
-# 🚀 Featured Projects
+## `05` — FEATURED PROJECTS
 
-<div align="center">
-
-<a href="https://github.com/GuptaNayan-X/Nayan-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuptaNayan-X&repo=Nayan-Portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/GuptaNayan-X/Frontend-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuptaNayan-X&repo=Frontend-Projects&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/GuptaNayan-X/Web-Technologies">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuptaNayan-X&repo=Web-Technologies&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/GuptaNayan-X/Web-Technologies-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GuptaNayan-X&repo=Web-Technologies-Website&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-# 🎨 Project Showcase
-
-### 🧊 Nayan Portfolio
+### 🌐 Nayan Portfolio
 
 **3D Personal Portfolio**
 
-> A personal portfolio designed to showcase my projects, skills, experiments and creative web development journey.
+A personal portfolio focused on showcasing projects, skills and creative experiments through an interactive experience.
 
-**Focus:** `3D UI` • `Animations` • `Interactive Design` • `Frontend`
+`3D UI` `Animations` `Interactive Design` `Frontend`
 
-🔗 [Explore Repository](https://github.com/GuptaNayan-X/Nayan-Portfolio)
+<a href="https://github.com/GuptaNayan-X/Nayan-Portfolio">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
@@ -184,23 +157,27 @@ I'm **Nayan Gupta**, a frontend developer and creative builder interested in des
 
 **Creative Web Experiments**
 
-> A collection of frontend projects built while experimenting with HTML, CSS, JavaScript and modern UI ideas.
+A collection of frontend projects built while experimenting with HTML, CSS, JavaScript and modern UI concepts.
 
-**Focus:** `Frontend` • `UI/UX` • `JavaScript` • `Web Design`
+`HTML` `CSS` `JavaScript` `UI/UX`
 
-🔗 [Explore Repository](https://github.com/GuptaNayan-X/Frontend-Projects)
+<a href="https://github.com/GuptaNayan-X/Frontend-Projects">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-### 🌐 Web Technologies
+### 🧩 Web Technologies
 
 **Learning + Development Repository**
 
-> Coursework, assignments, experiments and practical implementations related to web technologies.
+Coursework, experiments and practical implementations related to web development.
 
-**Focus:** `HTML` • `CSS` • `JavaScript` • `Web Development`
+`HTML` `CSS` `JavaScript` `Web Development`
 
-🔗 [Explore Repository](https://github.com/GuptaNayan-X/Web-Technologies)
+<a href="https://github.com/GuptaNayan-X/Web-Technologies">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
@@ -208,21 +185,23 @@ I'm **Nayan Gupta**, a frontend developer and creative builder interested in des
 
 **Interactive Learning Platform**
 
-> A web-based platform containing learning resources, projects and regularly updated web-development content.
+A web-based platform containing learning resources, projects and web-development content.
 
-**Focus:** `Web Development` • `Education` • `UI Design`
+`Web Development` `Education` `UI Design`
 
-🔗 [Explore Repository](https://github.com/GuptaNayan-X/Web-Technologies-Website)
+<a href="https://github.com/GuptaNayan-X/Web-Technologies-Website">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-# 📊 GitHub Analytics
+## `06` — GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuptaNayan-X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GuptaNayan-X&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&count_private=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaNayan-X&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaNayan-X&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=9CA3AF" height="180"/>
 
 </div>
 
@@ -230,134 +209,136 @@ I'm **Nayan Gupta**, a frontend developer and creative builder interested in des
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaNayan-X&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaNayan-X&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Matrix
+## `07` — CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuptaNayan-X&bg_color=0d1117&color=00e5ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuptaNayan-X&bg_color=050505&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## `08` — CURRENTLY LEARNING
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GuptaNayan-X/GuptaNayan-X/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ⚠️ The snake animation requires a GitHub Action to generate the SVG.
-
----
-
-# 🧠 Currently Learning
-
-<div align="center">
-
-| Stage | Technology      |    Status    |
-| :---: | :-------------- | :----------: |
-|   01  | HTML            |  🟢 Building |
-|   02  | CSS             |  🟢 Building |
-|   03  | JavaScript      |  🟡 Learning |
-|   04  | Modern Frontend |  🟡 Learning |
-|   05  | Interactive Web | 🔵 Exploring |
-|   06  | 3D Web          | 🔵 Exploring |
-|   07  | Full Stack      |   🔴 Future  |
-
-</div>
+```text
+HTML              ████████████████████  100%
+CSS               ███████████████████░   90%
+JavaScript        ████████████░░░░░░░░   60%
+React             ███████░░░░░░░░░░░░░   Exploring
+Node.js           █████░░░░░░░░░░░░░░░   Exploring
+Three.js          ████░░░░░░░░░░░░░░░░   Exploring
+Full Stack        ██░░░░░░░░░░░░░░░░░░   Future
+```
 
 ---
 
-# 🛰️ Developer Status
+## `09` — DEVELOPER MODE
 
 ```yaml
 name: Nayan Gupta
 
 role:
   - Frontend Developer
-  - Web Enthusiast
   - Creative Builder
+  - Web Enthusiast
 
-currently:
-  learning: JavaScript
-  building: Interactive Websites
-  exploring: 3D Web Experiences
+building:
+  - Interactive Websites
+  - Creative UI
+  - Portfolio Experiences
+
+learning:
+  - JavaScript
+  - Modern Frontend
+  - 3D Web
+
+exploring:
+  - React
+  - Three.js
+  - Node.js
 
 interests:
-  - Frontend Development
   - UI/UX
   - Web Animation
-  - 3D Web
   - Creative Coding
+  - 3D Experiences
 
 goal:
   "Become a strong Software / Computer Engineer"
 
-mindset:
+philosophy:
   "Build → Learn → Improve → Repeat"
 ```
 
 ---
 
-# 🌠 2026 Mission
+## `10` — 2026 OBJECTIVES
+
+<div align="center">
+
+| Mission                             | Progress |
+| :---------------------------------- | :------: |
+| Master JavaScript                   |    🟡    |
+| Build stronger frontend projects    |    🟡    |
+| Learn React                         |    🔵    |
+| Explore 3D Web                      |    🔵    |
+| Build impressive portfolio projects |    🟡    |
+| Improve problem solving             |    🔵    |
+| Become a stronger developer         |    🚀    |
+
+</div>
+
+---
+
+## `11` — BEYOND CODE
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
-║              🚀 2026 MISSION                ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║   ✓ Improve JavaScript                      ║
-║   ✓ Build better frontend projects         ║
-║   ✓ Learn modern frameworks                ║
-║   ✓ Explore 3D web development              ║
-║   ✓ Create impressive portfolio projects    ║
-║   ✓ Become a stronger developer             ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+                 THINK
+                   ↓
+                CREATE
+                   ↓
+                 BUILD
+                   ↓
+                 BREAK
+                   ↓
+                  FIX
+                   ↓
+               IMPROVE
+                   ↓
+                REPEAT
 ```
 
-</div>
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-### **"Don't just write code. Build experiences."**
-
-<br>
-
-**Learn. Build. Break. Fix. Improve. Repeat.**
+### **"Ideas are everywhere. Building them is the skill."**
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+## `12` — CONNECT
 
 <div align="center">
 
 <a href="https://github.com/GuptaNayan-X">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<a href="https://github.com/GuptaNayan-X?tab=repositories">
+<img src="https://img.shields.io/badge/MY%20REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:111827,100:050505&height=130&section=footer" width="100%"/>
 
 </div>
-
-<!-- =========================================================
-     END
-     ========================================================= -->
