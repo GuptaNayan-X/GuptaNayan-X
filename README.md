@@ -1,4 +1,4 @@
-<div align="center">
+[[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,50:111827,100:312e81&text=NAYAN%20GUPTA&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=FRONTEND%20DEVELOPER%20%7C%20CREATIVE%20BUILDER&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
@@ -342,3 +342,4 @@ philosophy:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:111827,100:050505&height=130&section=footer" width="100%"/>
 
 </div>
+](https://img.shields.io/badge/HEY%2C%20I)](https://img.shields.io/badge/HEY%2C%20I)
