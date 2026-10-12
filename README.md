@@ -1,4 +1,4 @@
-[[<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,50:111827,100:312e81&text=NAYAN%20GUPTA&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=FRONTEND%20DEVELOPER%20%7C%20CREATIVE%20BUILDER&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
@@ -175,7 +175,7 @@ Coursework, experiments and practical implementations related to web development
 
 `HTML` `CSS` `JavaScript` `Web Development`
 
-<a href="https://github.com/GuptaNayan-X/Web-Technologies">
+<a href="https://github.com/GuptaNayan-X/Web-Tecnologies.git">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -189,7 +189,7 @@ A web-based platform containing learning resources, projects and web-development
 
 `Web Development` `Education` `UI Design`
 
-<a href="https://github.com/GuptaNayan-X/Web-Technologies-Website">
+<a href="https://github.com/GuptaNayan-X/Web-Tecnologies-Website.git">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
